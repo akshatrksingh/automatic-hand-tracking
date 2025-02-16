@@ -25,7 +25,7 @@ The solution is implemented in `final_solution.ipynb`, providing a Jupyter noteb
 
 ### Mac Users Note
 
-For macOS users, the original `misc.py` decoder logic has been replaced with OpenCV-based implementation to ensure compatibility.
+For macOS users, the original `misc.py` decoder logic needs to be replaced with OpenCV-based implementation to ensure compatibility.
 
 ## Getting Started
 
@@ -41,6 +41,7 @@ The project generates a video with masked hand movements, showcasing the trackin
 
 - `final_solution.ipynb`: Main implementation notebook
 - `requirements.txt`: Project dependencies
+- `output.mp4` is the output video
 - Sample images and output video included
 
 ## Contributions
