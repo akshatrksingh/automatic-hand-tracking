@@ -31,7 +31,7 @@ For macOS users, the original `misc.py` decoder logic needs to be replaced with 
 
 1. Clone the repository
 2. Install requirements using `pip install -r requirements.txt`
-3. Run the Jupyter notebook `final_solution.ipynb`
+3. Run the Jupyter notebook `solution.ipynb`
 
 ## Sample Output
 
