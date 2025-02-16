@@ -21,7 +21,7 @@ This project implements an automatic hand tracking pipeline using advanced compu
 
 ## Quick Highlights
 
-The solution is implemented in `final_solution.ipynb`, providing a Jupyter notebook that demonstrates the entire hand tracking workflow. 
+The solution is implemented in `solution.ipynb`, providing a Jupyter notebook that demonstrates the entire hand tracking workflow. 
 
 ### Mac Users Note
 
