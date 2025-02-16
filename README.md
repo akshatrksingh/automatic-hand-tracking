@@ -39,7 +39,7 @@ The project generates a video with masked hand movements, showcasing the trackin
 
 ## Project Structure
 
-- `final_solution.ipynb`: Main implementation notebook
+- `solution.ipynb`: Main implementation notebook
 - `requirements.txt`: Project dependencies
 - `output.mp4` is the output video
 - Sample images and output video included
